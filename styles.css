@@ -37,6 +37,12 @@ button:disabled {
   color: #aaa; 
   cursor: auto;
 }
+img {
+  float: left;
+  margin-right: 10px;
+  max-width: 100%;
+  width: calc((100% - 20px)/2);
+}
 
 /* Navigation link styles */
 nav a {
